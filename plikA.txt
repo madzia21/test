@@ -1,3 +1,4 @@
 Nowo utworzony plik/ nie utworzono wskaźnika testing
 ...
 wprowadzam zmiany w plikuA po utworzeniu brancha testing i wprowadzeniu na branchu testing zmian do plikuA
+utworzyłam gałąź testing i przełączyłam sie z master na testing
