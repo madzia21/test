@@ -1,1 +1,1 @@
-utworzyłam plikB na gałęzi testing
+To jest zawartość pliku B.
