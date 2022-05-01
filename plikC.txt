@@ -1,2 +1,3 @@
 To jest zawartość pliku C.
 Zmieniam zawartość na branchu main.
+Zmieniam zawartość C na branchu test.
